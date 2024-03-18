@@ -1,1 +1,0 @@
-# House Rent Price Prediction
