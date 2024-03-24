@@ -30,3 +30,7 @@ Before running the code, make sure to install the following dependencies in your
 5. General Public: Individuals keen on understanding rental market dynamics, exploring price trends, or learning about predictive modeling can benefit from the project's insights and methodologies, enhancing their knowledge in the field.
 #### License
 The dataset is provided by Austin Reese (Owner) under the license "CC0: Public Domain", ensuring flexibility and accessibility for all users.
+
+# Data Set URL 
+USA Housing List Kaggle :
+https://www.kaggle.com/datasets/austinreese/usa-housing-listings?resource=download
